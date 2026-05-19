@@ -1,4 +1,3 @@
-````markdown
 # Nextflow + nf-core/smrnaseq Workflow for Ultra-Short RNA Fragment (USRF) Discovery and Small RNA-seq Analysis
 
 Pipeline development and downstream analysis framework for small RNA sequencing with emphasis on ultra-short RNA fragment (USRF) detection, residual read characterization, and iterative filtering of canonical small RNA species.
