@@ -233,7 +233,7 @@ The emphasis is on reproducible workflow engineering, iterative residual filteri
 
 ## Author
 
-Joshua Rivera
+Joshua Rivera PhD
 Dana-Farber Cancer Institute / Harvard Medical School
 
 Computational biology, bioinformatics workflow engineering, and single-cell / multi-omic analysis.
