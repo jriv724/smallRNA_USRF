@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# Nextflow + nf-core/smrnaseq Workflow for Ultra-Short RNA Fragment (USRF) Discovery and Small RNA-seq Analysis
-=======
-````markdown id="9t6x1m"
-# Nextflow + nf-core/smrnaseq Pipeline for Ultra-Short RNA Fragment (USRF) Analysis
->>>>>>> 818a3aab7a04f9a4ee97480b321585dc022d07d7
+# Nextflow + nf-core/smrnaseq Workflow for Ultra-Short RNA Fragment (USRF) Analysis
 
 A scalable small RNA-seq workflow and downstream analysis framework for detecting, filtering, and characterizing ultra-short RNA fragments (USRFs) using Nextflow and nf-core/smrnaseq.
 
@@ -11,23 +6,26 @@ A scalable small RNA-seq workflow and downstream analysis framework for detectin
 
 ## Overview
 
-This repository contains workflow scripts, QC analyses, filtering utilities, and exploratory notebooks for small RNA sequencing datasets processed with a modified nf-core/smrnaseq pipeline designed to preserve ultra-short reads.
+This repository contains workflow scripts, QC analyses, filtering utilities, and exploratory notebooks for small RNA sequencing datasets processed using a modified nf-core/smrnaseq pipeline designed to preserve ultra-short reads.
 
-While conventional small RNA-seq pipelines are primarily optimized for canonical miRNAs, this project focuses on the residual short RNA population that remains after iterative filtering of known small RNA classes.
+While conventional small RNA-seq pipelines are primarily optimized for canonical miRNAs, this project focuses on the residual short RNA population that remains after iterative filtering of known RNA classes.
 
-The workflow was developed in an HPC environment using SLURM, Nextflow, and Conda/Mamba-based execution.
+The workflow was developed in an HPC environment using:
+
+- SLURM
+- Nextflow
+- Conda / Mamba
+- nf-core/smrnaseq
 
 ---
 
-## Goals
+## Objectives
 
-The primary goals of this project are:
-
-- Preserve and analyze reads in the ~8–20 nt range
+- Preserve reads in the ~8–20 nt range
 - Characterize residual RNA populations after canonical filtering
-- Explore reproducibility of ultra-short fragments across immune cell types
+- Explore reproducibility of ultra-short RNA fragments across immune cell types
 - Develop modular filtering workflows for iterative residual analysis
-- Build reproducible Nextflow-based small RNA-seq infrastructure
+- Build reproducible and scalable small RNA-seq infrastructure
 
 ---
 
@@ -60,7 +58,7 @@ The primary goals of this project are:
 
 ## Workflow Summary
 
-```text id="0qyn5o"
+```text
 Raw small RNA FASTQ
         ↓
 fastp preprocessing
@@ -87,7 +85,7 @@ Ultra-short RNA fragment analysis
 
 ## Repository Structure
 
-```text id="72rjfa"
+```text
 .
 ├── 01.nfcore_smrnaseq/
 │   ├── fastp/
@@ -123,7 +121,7 @@ Ultra-short RNA fragment analysis
 
 ## Key Features
 
-### Ultra-short read preservation
+### Ultra-short Read Preservation
 
 The workflow intentionally preserves reads below conventional miRNA size thresholds to enable exploratory analysis of ultra-short RNA species.
 
@@ -131,7 +129,7 @@ Custom pipeline configurations retain reads as short as approximately 8 nucleoti
 
 ---
 
-### Residual read extraction
+### Residual Read Extraction
 
 The pipeline isolates reads remaining after:
 
@@ -143,7 +141,7 @@ Residual populations are then subjected to iterative filtering against additiona
 
 ---
 
-### Reproducible HPC execution
+### Reproducible HPC Execution
 
 The workflow was developed for scalable execution on SLURM-based HPC infrastructure using:
 
@@ -155,7 +153,7 @@ Execution metadata and launch scripts are preserved for reproducibility.
 
 ---
 
-### Integrated QC reporting
+### Integrated QC Reporting
 
 Included QC layers include:
 
@@ -172,7 +170,7 @@ Included QC layers include:
 
 ### nf-core/smrnaseq
 
-```bash id="oz9nqx"
+```bash
 nextflow run nf-core/smrnaseq \
     -profile singularity \
     --input sample_index.csv \
@@ -183,9 +181,9 @@ nextflow run nf-core/smrnaseq \
     --minlength 8
 ```
 
-### Custom USRF workflow
+### Custom USRF Workflow
 
-```bash id="c6e6uv"
+```bash
 bash run_smrnaseq_keep8.sh
 ```
 
@@ -227,9 +225,9 @@ Potential downstream applications include:
 
 ## Notes
 
-This repository represents an active exploratory workflow framework for small RNA-seq analysis and ultra-short RNA fragment characterization.
+This repository represents an exploratory workflow framework for small RNA-seq analysis and ultra-short RNA fragment characterization.
 
-The emphasis is on reproducible workflow engineering, iterative residual filtering, and scalable exploratory analysis rather than finalized biological conclusions.
+The emphasis is on reproducible workflow engineering, iterative residual filtering, and scalable exploratory analysis.
 
 ---
 
@@ -238,7 +236,7 @@ The emphasis is on reproducible workflow engineering, iterative residual filteri
 Joshua Rivera
 Dana-Farber Cancer Institute / Harvard Medical School
 
-Computational biology, bioinformatics workflow engineering, and single-cell/multi-omic analysis.
+Computational biology, bioinformatics workflow engineering, and single-cell / multi-omic analysis.
 
 ```
 ```
