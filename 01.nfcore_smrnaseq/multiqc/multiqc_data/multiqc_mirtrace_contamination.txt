@@ -1,0 +1,17 @@
+Sample	bryophytes	lycopods	gymnosperms	monocots	dicots	sponges	nematode	insects	lophotrochozoa	echinoderms	fish	birds_reptiles	rodents	primates
+CD14_S1	0	0	0	0	0	0	0	0	0	0	0	0	0	8929
+CD14_S2	0	0	0	0	0	0	0	0	0	0	0	0	0	7172
+CD14_S3	0	0	0	0	0	0	0	0	0	0	0	0	0	8741
+CD14_S4	0	0	0	0	0	0	0	0	0	0	0	0	1	8355
+CD19_S1	0	0	0	0	0	0	0	0	0	0	0	0	1	1590
+CD19_S2	0	0	0	0	0	0	0	0	0	0	0	0	0	1098
+CD19_S3	0	0	0	0	0	0	0	0	0	0	0	0	0	2097
+CD19_S4	0	0	0	0	0	0	0	0	0	0	0	0	1	791
+CD4_S1	0	0	0	0	0	0	0	0	0	0	0	0	0	1331
+CD4_S2	0	0	0	0	0	0	0	0	0	0	0	0	0	1223
+CD4_S3	0	0	0	0	0	0	0	0	0	0	0	0	1	1057
+CD4_S4	0	0	0	0	0	0	0	0	0	0	0	0	0	1954
+CD56_S1	0	0	0	0	0	0	0	0	0	0	0	0	0	2895
+CD56_S2	0	0	0	0	0	0	0	0	0	0	0	0	1	3634
+CD56_S3	0	0	0	0	0	0	0	0	0	0	0	0	0	3187
+CD56_S4	0	0	0	0	0	0	0	0	0	0	0	0	0	2361

@@ -1,0 +1,14 @@
+openjdk version "21.0.10-internal" 2026-01-20
+OpenJDK Runtime Environment (build 21.0.10-internal-adhoc.conda.src)
+OpenJDK 64-Bit Server VM (build 21.0.10-internal-adhoc.conda.src, mixed mode, sharing)
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+/samurlab1/Joshua/smallRNA_USRF/.conda_cache/env-13b8b84647f7fbd2832bc10a1fda7eea/lib/python3.11/site-packages/mirtop/libs/config.py:1: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+/samurlab1/Joshua/smallRNA_USRF/.conda_cache/env-13b8b84647f7fbd2832bc10a1fda7eea/lib/python3.11/site-packages/Bio/pairwise2.py:278: BiopythonDeprecationWarning: Bio.pairwise2 has been deprecated, and we intend to remove it in a future release of Biopython. As an alternative, please consider using Bio.Align.PairwiseAligner as a replacement, and contact the Biopython developers if you still need the Bio.pairwise2 module.
+  warnings.warn(

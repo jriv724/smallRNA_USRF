@@ -1,0 +1,32 @@
+Sample	bowtie	samtools	r-base	fastp	fastqc	fastx_toolkit	mirdeep2	mirtop	mirtrace	seqkit	tidyr	optparse	dplyr	vroom	seqcluster	nf-core/smrnaseq	Nextflow
+BOWTIE_MAP_GENOME	1.3.1	1.23.1															
+BOWTIE_MAP_HAIRPIN	1.3.1	1.23.1															
+BOWTIE_MAP_MATURE	1.3.1	1.23.1															
+BOWTIE_MAP_SEQCLUSTER	1.3.1	1.23.1															
+DATATABLE_MERGE			3.6.2														
+FASTQC_RAW					0.12.1												
+FASTQC_TRIM					0.12.1												
+FORMAT_HAIRPIN						0.0.14											
+FORMAT_MATURE						0.0.14											
+INDEX_HAIRPIN	1.3.1																
+INDEX_MATURE	1.3.1																
+MIRDEEP2_MAPPER							2.0.1										
+MIRTOP_COUNTS								0.4.30									
+MIRTOP_EXPORT								0.4.30									
+MIRTOP_GFF								0.4.30									
+MIRTOP_STATS								0.4.30									
+MIRTRACE_QC									1.0.1								
+PARSE_HAIRPIN										2.6.1							
+PARSE_MATURE										2.6.1							
+PIVOT_LONGER			4.4.2								1.3.1	1.7.5					
+PIVOT_WIDER			4.4.2								1.3.1	1.7.5	1.1.4	1.6.5			
+SAMTOOLS_FLAGSTAT		1.23.1															
+SAMTOOLS_IDXSTATS		1.23.1															
+SAMTOOLS_INDEX		1.23.1															
+SAMTOOLS_SORT		1.23.1															
+SAMTOOLS_STATS		1.23.1															
+SEQCLUSTER_COLLAPSE															1.2.9		
+SEQKIT_FQ2FA										2.13.0							
+SEQKIT_REPLACE										2.13.0							
+Workflow																v2.4.1-gcb0af57	25.10.4
+fastp				1.3.1													

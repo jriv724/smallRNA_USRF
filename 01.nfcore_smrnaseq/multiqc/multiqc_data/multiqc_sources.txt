@@ -1,0 +1,114 @@
+Module	Section	Sample Name	Source
+fastp	all_sections	CD4_S1	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/27/CD4_S1.fastp.json
+fastp	all_sections	CD4_S2	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/23/CD4_S2.fastp.json
+fastp	all_sections	CD4_S3	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/31/CD4_S3.fastp.json
+fastp	all_sections	CD4_S4	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/25/CD4_S4.fastp.json
+fastp	all_sections	CD14_S1	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/21/CD14_S1.fastp.json
+fastp	all_sections	CD14_S2	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/29/CD14_S2.fastp.json
+fastp	all_sections	CD14_S3	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/34/CD14_S3.fastp.json
+fastp	all_sections	CD14_S4	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/33/CD14_S4.fastp.json
+fastp	all_sections	CD19_S1	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/24/CD19_S1.fastp.json
+fastp	all_sections	CD19_S2	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/26/CD19_S2.fastp.json
+fastp	all_sections	CD19_S3	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/19/CD19_S3.fastp.json
+fastp	all_sections	CD19_S4	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/22/CD19_S4.fastp.json
+fastp	all_sections	CD56_S1	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/30/CD56_S1.fastp.json
+fastp	all_sections	CD56_S2	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/32/CD56_S2.fastp.json
+fastp	all_sections	CD56_S3	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/28/CD56_S3.fastp.json
+fastp	all_sections	CD56_S4	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/20/CD56_S4.fastp.json
+mirtop	all_sections	mirtop_stats	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/210/mirtop_stats.log
+miRTrace	all_sections	CD4_S1	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/163/mirtrace-stats-mirna-complexity.tsv
+miRTrace	all_sections	CD14_S2	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/184/mirtrace-stats-mirna-complexity.tsv
+miRTrace	all_sections	CD56_S1	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/128/mirtrace-stats-mirna-complexity.tsv
+miRTrace	all_sections	CD19_S2	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/100/mirtrace-stats-mirna-complexity.tsv
+miRTrace	all_sections	CD19_S4	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/142/mirtrace-stats-mirna-complexity.tsv
+miRTrace	all_sections	CD4_S4	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/156/mirtrace-stats-mirna-complexity.tsv
+miRTrace	all_sections	CD4_S2	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/191/mirtrace-stats-mirna-complexity.tsv
+miRTrace	all_sections	CD19_S1	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/107/mirtrace-stats-mirna-complexity.tsv
+miRTrace	all_sections	CD14_S4	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/177/mirtrace-stats-mirna-complexity.tsv
+miRTrace	all_sections	CD56_S4	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/121/mirtrace-stats-mirna-complexity.tsv
+miRTrace	all_sections	CD19_S3	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/86/mirtrace-stats-mirna-complexity.tsv
+miRTrace	all_sections	CD56_S3	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/170/mirtrace-stats-mirna-complexity.tsv
+miRTrace	all_sections	CD14_S1	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/114/mirtrace-stats-mirna-complexity.tsv
+miRTrace	all_sections	CD14_S3	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/135/mirtrace-stats-mirna-complexity.tsv
+miRTrace	all_sections	CD56_S2	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/93/mirtrace-stats-mirna-complexity.tsv
+miRTrace	all_sections	CD4_S3	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/149/mirtrace-stats-mirna-complexity.tsv
+Samtools	stats	CD4_S1_mature	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/237/CD4_S1_mature.sorted.stats
+Samtools	stats	CD4_S1_mature_hairpin	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/216/CD4_S1_mature_hairpin.sorted.stats
+Samtools	stats	CD4_S1_mature_hairpin_genome	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/255/CD4_S1_mature_hairpin_genome.sorted.stats
+Samtools	stats	CD4_S2_mature	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/231/CD4_S2_mature.sorted.stats
+Samtools	stats	CD4_S2_mature_hairpin	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/214/CD4_S2_mature_hairpin.sorted.stats
+Samtools	stats	CD4_S2_mature_hairpin_genome	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/254/CD4_S2_mature_hairpin_genome.sorted.stats
+Samtools	stats	CD4_S3_mature	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/234/CD4_S3_mature.sorted.stats
+Samtools	stats	CD4_S3_mature_hairpin	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/218/CD4_S3_mature_hairpin.sorted.stats
+Samtools	stats	CD4_S3_mature_hairpin_genome	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/253/CD4_S3_mature_hairpin_genome.sorted.stats
+Samtools	stats	CD4_S4_mature	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/238/CD4_S4_mature.sorted.stats
+Samtools	stats	CD4_S4_mature_hairpin	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/212/CD4_S4_mature_hairpin.sorted.stats
+Samtools	stats	CD4_S4_mature_hairpin_genome	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/247/CD4_S4_mature_hairpin_genome.sorted.stats
+Samtools	stats	CD14_S1_mature	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/235/CD14_S1_mature.sorted.stats
+Samtools	stats	CD14_S1_mature_hairpin	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/211/CD14_S1_mature_hairpin.sorted.stats
+Samtools	stats	CD14_S1_mature_hairpin_genome	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/258/CD14_S1_mature_hairpin_genome.sorted.stats
+Samtools	stats	CD14_S2_mature	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/240/CD14_S2_mature.sorted.stats
+Samtools	stats	CD14_S2_mature_hairpin	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/223/CD14_S2_mature_hairpin.sorted.stats
+Samtools	stats	CD14_S2_mature_hairpin_genome	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/256/CD14_S2_mature_hairpin_genome.sorted.stats
+Samtools	stats	CD14_S3_mature	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/227/CD14_S3_mature.sorted.stats
+Samtools	stats	CD14_S3_mature_hairpin	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/224/CD14_S3_mature_hairpin.sorted.stats
+Samtools	stats	CD14_S3_mature_hairpin_genome	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/251/CD14_S3_mature_hairpin_genome.sorted.stats
+Samtools	stats	CD14_S4_mature	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/241/CD14_S4_mature.sorted.stats
+Samtools	stats	CD14_S4_mature_hairpin	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/217/CD14_S4_mature_hairpin.sorted.stats
+Samtools	stats	CD14_S4_mature_hairpin_genome	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/245/CD14_S4_mature_hairpin_genome.sorted.stats
+Samtools	stats	CD19_S1_mature	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/233/CD19_S1_mature.sorted.stats
+Samtools	stats	CD19_S1_mature_hairpin	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/221/CD19_S1_mature_hairpin.sorted.stats
+Samtools	stats	CD19_S1_mature_hairpin_genome	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/248/CD19_S1_mature_hairpin_genome.sorted.stats
+Samtools	stats	CD19_S2_mature	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/232/CD19_S2_mature.sorted.stats
+Samtools	stats	CD19_S2_mature_hairpin	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/220/CD19_S2_mature_hairpin.sorted.stats
+Samtools	stats	CD19_S2_mature_hairpin_genome	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/244/CD19_S2_mature_hairpin_genome.sorted.stats
+Samtools	stats	CD19_S3_mature	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/229/CD19_S3_mature.sorted.stats
+Samtools	stats	CD19_S3_mature_hairpin	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/219/CD19_S3_mature_hairpin.sorted.stats
+Samtools	stats	CD19_S3_mature_hairpin_genome	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/250/CD19_S3_mature_hairpin_genome.sorted.stats
+Samtools	stats	CD19_S4_mature	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/228/CD19_S4_mature.sorted.stats
+Samtools	stats	CD19_S4_mature_hairpin	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/225/CD19_S4_mature_hairpin.sorted.stats
+Samtools	stats	CD19_S4_mature_hairpin_genome	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/252/CD19_S4_mature_hairpin_genome.sorted.stats
+Samtools	stats	CD56_S1_mature	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/230/CD56_S1_mature.sorted.stats
+Samtools	stats	CD56_S1_mature_hairpin	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/215/CD56_S1_mature_hairpin.sorted.stats
+Samtools	stats	CD56_S1_mature_hairpin_genome	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/257/CD56_S1_mature_hairpin_genome.sorted.stats
+Samtools	stats	CD56_S2_mature	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/242/CD56_S2_mature.sorted.stats
+Samtools	stats	CD56_S2_mature_hairpin	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/226/CD56_S2_mature_hairpin.sorted.stats
+Samtools	stats	CD56_S2_mature_hairpin_genome	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/246/CD56_S2_mature_hairpin_genome.sorted.stats
+Samtools	stats	CD56_S3_mature	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/239/CD56_S3_mature.sorted.stats
+Samtools	stats	CD56_S3_mature_hairpin	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/213/CD56_S3_mature_hairpin.sorted.stats
+Samtools	stats	CD56_S3_mature_hairpin_genome	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/243/CD56_S3_mature_hairpin_genome.sorted.stats
+Samtools	stats	CD56_S4_mature	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/236/CD56_S4_mature.sorted.stats
+Samtools	stats	CD56_S4_mature_hairpin	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/222/CD56_S4_mature_hairpin.sorted.stats
+Samtools	stats	CD56_S4_mature_hairpin_genome	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/249/CD56_S4_mature_hairpin_genome.sorted.stats
+FastQC (raw)	all_sections	CD4_S1.raw	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/3/CD4_S1.raw_fastqc.zip
+FastQC (raw)	all_sections	CD4_S2.raw	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/9/CD4_S2.raw_fastqc.zip
+FastQC (raw)	all_sections	CD4_S3.raw	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/15/CD4_S3.raw_fastqc.zip
+FastQC (raw)	all_sections	CD4_S4.raw	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/16/CD4_S4.raw_fastqc.zip
+FastQC (raw)	all_sections	CD14_S1.raw	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/7/CD14_S1.raw_fastqc.zip
+FastQC (raw)	all_sections	CD14_S2.raw	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/12/CD14_S2.raw_fastqc.zip
+FastQC (raw)	all_sections	CD14_S3.raw	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/11/CD14_S3.raw_fastqc.zip
+FastQC (raw)	all_sections	CD14_S4.raw	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/13/CD14_S4.raw_fastqc.zip
+FastQC (raw)	all_sections	CD19_S1.raw	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/4/CD19_S1.raw_fastqc.zip
+FastQC (raw)	all_sections	CD19_S2.raw	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/1/CD19_S2.raw_fastqc.zip
+FastQC (raw)	all_sections	CD19_S3.raw	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/8/CD19_S3.raw_fastqc.zip
+FastQC (raw)	all_sections	CD19_S4.raw	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/5/CD19_S4.raw_fastqc.zip
+FastQC (raw)	all_sections	CD56_S1.raw	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/6/CD56_S1.raw_fastqc.zip
+FastQC (raw)	all_sections	CD56_S2.raw	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/10/CD56_S2.raw_fastqc.zip
+FastQC (raw)	all_sections	CD56_S3.raw	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/2/CD56_S3.raw_fastqc.zip
+FastQC (raw)	all_sections	CD56_S4.raw	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/14/CD56_S4.raw_fastqc.zip
+FastQC (trimmed)	all_sections	CD4_S1	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/41/CD4_S1.trim_fastqc.zip
+FastQC (trimmed)	all_sections	CD4_S2	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/38/CD4_S2.trim_fastqc.zip
+FastQC (trimmed)	all_sections	CD4_S3	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/47/CD4_S3.trim_fastqc.zip
+FastQC (trimmed)	all_sections	CD4_S4	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/42/CD4_S4.trim_fastqc.zip
+FastQC (trimmed)	all_sections	CD14_S1	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/39/CD14_S1.trim_fastqc.zip
+FastQC (trimmed)	all_sections	CD14_S2	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/45/CD14_S2.trim_fastqc.zip
+FastQC (trimmed)	all_sections	CD14_S3	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/50/CD14_S3.trim_fastqc.zip
+FastQC (trimmed)	all_sections	CD14_S4	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/48/CD14_S4.trim_fastqc.zip
+FastQC (trimmed)	all_sections	CD19_S1	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/40/CD19_S1.trim_fastqc.zip
+FastQC (trimmed)	all_sections	CD19_S2	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/43/CD19_S2.trim_fastqc.zip
+FastQC (trimmed)	all_sections	CD19_S3	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/35/CD19_S3.trim_fastqc.zip
+FastQC (trimmed)	all_sections	CD19_S4	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/37/CD19_S4.trim_fastqc.zip
+FastQC (trimmed)	all_sections	CD56_S1	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/46/CD56_S1.trim_fastqc.zip
+FastQC (trimmed)	all_sections	CD56_S2	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/49/CD56_S2.trim_fastqc.zip
+FastQC (trimmed)	all_sections	CD56_S3	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/44/CD56_S3.trim_fastqc.zip
+FastQC (trimmed)	all_sections	CD56_S4	/samurlab1/Joshua/smallRNA_USRF/work_smrnaseq/87/e73c2942cc2c7074dbfc8a602c59c2/36/CD56_S4.trim_fastqc.zip

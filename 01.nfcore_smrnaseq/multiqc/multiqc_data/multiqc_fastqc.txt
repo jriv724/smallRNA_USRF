@@ -1,0 +1,17 @@
+Sample	Filename	File type	Encoding	Total Sequences	Total Bases	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	median_sequence_length	basic_statistics	per_base_sequence_quality	per_tile_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+CD14_S1.raw	CD14_S1.raw.gz	Conventional base calls	Sanger / Illumina 1.9	33666454.0	5 Gbp	0.0	150.0	62.0	5.26555377773616	150.0	150	pass	warn	warn	pass	fail	fail	pass	pass	fail	fail	fail
+CD14_S2.raw	CD14_S2.raw.gz	Conventional base calls	Sanger / Illumina 1.9	36356801.0	5.4 Gbp	0.0	150.0	60.0	3.8220380595430163	150.0	150	pass	warn	warn	pass	fail	warn	pass	pass	fail	fail	fail
+CD14_S3.raw	CD14_S3.raw.gz	Conventional base calls	Sanger / Illumina 1.9	35451156.0	5.3 Gbp	0.0	150.0	60.0	3.789502639607456	150.0	150	pass	fail	warn	pass	fail	fail	pass	pass	fail	fail	fail
+CD14_S4.raw	CD14_S4.raw.gz	Conventional base calls	Sanger / Illumina 1.9	37654239.0	5.6 Gbp	0.0	150.0	58.0	3.7946493567794732	150.0	150	pass	pass	warn	pass	fail	fail	pass	pass	fail	fail	fail
+CD19_S1.raw	CD19_S1.raw.gz	Conventional base calls	Sanger / Illumina 1.9	30739877.0	4.6 Gbp	0.0	150.0	56.0	3.8597546132619573	150.0	150	pass	warn	pass	pass	fail	warn	pass	pass	fail	fail	fail
+CD19_S2.raw	CD19_S2.raw.gz	Conventional base calls	Sanger / Illumina 1.9	28719495.0	4.3 Gbp	0.0	150.0	54.0	3.5284342256473735	150.0	150	pass	warn	pass	pass	fail	fail	pass	pass	fail	fail	fail
+CD19_S3.raw	CD19_S3.raw.gz	Conventional base calls	Sanger / Illumina 1.9	30978625.0	4.6 Gbp	0.0	150.0	56.0	3.4566968927453154	150.0	150	pass	warn	pass	pass	fail	warn	pass	pass	fail	fail	fail
+CD19_S4.raw	CD19_S4.raw.gz	Conventional base calls	Sanger / Illumina 1.9	25183389.0	3.7 Gbp	0.0	150.0	51.0	3.0032862486731293	150.0	150	pass	warn	pass	pass	fail	warn	pass	pass	fail	fail	fail
+CD4_S1.raw	CD4_S1.raw.gz	Conventional base calls	Sanger / Illumina 1.9	28469446.0	4.2 Gbp	0.0	150.0	57.0	3.8893688588897373	150.0	150	pass	pass	warn	pass	fail	warn	pass	pass	fail	fail	fail
+CD4_S2.raw	CD4_S2.raw.gz	Conventional base calls	Sanger / Illumina 1.9	30104067.0	4.5 Gbp	0.0	150.0	55.0	3.8502431961624333	150.0	150	pass	warn	pass	pass	fail	warn	pass	pass	fail	fail	fail
+CD4_S3.raw	CD4_S3.raw.gz	Conventional base calls	Sanger / Illumina 1.9	31156982.0	4.6 Gbp	0.0	150.0	54.0	3.2065094755501065	150.0	150	pass	warn	pass	pass	fail	fail	pass	pass	fail	fail	fail
+CD4_S4.raw	CD4_S4.raw.gz	Conventional base calls	Sanger / Illumina 1.9	28835978.0	4.3 Gbp	0.0	150.0	54.0	3.1018791415966285	150.0	150	pass	warn	warn	pass	fail	warn	pass	pass	fail	fail	fail
+CD56_S1.raw	CD56_S1.raw.gz	Conventional base calls	Sanger / Illumina 1.9	30971692.0	4.6 Gbp	0.0	150.0	56.0	4.677826956948175	150.0	150	pass	warn	pass	pass	fail	fail	pass	pass	fail	fail	fail
+CD56_S2.raw	CD56_S2.raw.gz	Conventional base calls	Sanger / Illumina 1.9	32549200.0	4.8 Gbp	0.0	150.0	60.0	4.139966719180061	150.0	150	pass	fail	fail	pass	fail	fail	pass	pass	fail	fail	fail
+CD56_S3.raw	CD56_S3.raw.gz	Conventional base calls	Sanger / Illumina 1.9	28402896.0	4.2 Gbp	0.0	150.0	57.0	3.375532240358367	150.0	150	pass	warn	warn	pass	fail	fail	pass	pass	fail	fail	fail
+CD56_S4.raw	CD56_S4.raw.gz	Conventional base calls	Sanger / Illumina 1.9	30065082.0	4.5 Gbp	0.0	150.0	55.0	2.9241535627908806	150.0	150	pass	warn	pass	pass	fail	warn	pass	pass	fail	fail	fail

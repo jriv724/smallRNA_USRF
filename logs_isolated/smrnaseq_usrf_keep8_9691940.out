@@ -1,0 +1,28 @@
+
+=== environment check ===
+nextflow: /samurlab1/Joshua/joshMiniforge3/envs/nextflow/bin/nextflow
+java:     /samurlab1/Joshua/joshMiniforge3/envs/nextflow/bin/java
+python:   /samurlab1/Joshua/joshMiniforge3/envs/nextflow/bin/python
+mamba:    /samurlab1/Joshua/joshMiniforge3/envs/nextflow/bin/mamba
+git:      /usr/bin/git
+fastp:    /samurlab1/Joshua/joshMiniforge3/envs/nextflow/bin/fastp
+
+      N E X T F L O W
+      version 25.10.4 build 11173
+      created 10-02-2026 15:17 UTC (10:17 EDT)
+      cite doi:10.1038/nbt.3820
+      http://nextflow.io
+
+Python 3.10.20
+2.5.0
+fastp 1.3.1
+Launcher Python dependencies look OK
+Using profile: illumina
+Isolated run root: /samurlab1/Joshua/smallRNA_USRF/isolated_runs/smrnaseq_keep8_20260428_171639
+
+=== building R1-only samplesheet ===
+Wrote samplesheet: /samurlab1/Joshua/smallRNA_USRF/isolated_runs/smrnaseq_keep8_20260428_171639/launch/sample_index.smrnaseq.single_end.csv
+Wrote pair audit:  /samurlab1/Joshua/smallRNA_USRF/isolated_runs/smrnaseq_keep8_20260428_171639/launch/sample_index.pair_audit.tsv
+
+=== running custom fastp rescue branch: save passing reads with MINLEN=8 ===
+RUN: /samurlab1/Joshua/joshMiniforge3/envs/nextflow/bin/fastp -i /samurlab1/Joshua/smallRNA_USRF/00.rawdata/CD4+S1/CD4+S1_R1.fastq.gz -o /samurlab1/Joshua/smallRNA_USRF/isolated_runs/smrnaseq_keep8_20260428_171639/03.shortRNA_filtering/00.fastp_keep8nt/CD4_S1.keep8nt.fastq.gz --length_required 8 --length_limit 100 --thread 16 --html /samurlab1/Joshua/smallRNA_USRF/isolated_runs/smrnaseq_keep8_20260428_171639/03.shortRNA_filtering/00.fastp_keep8nt/CD4_S1.fastp.keep8nt.html --json /samurlab1/Joshua/smallRNA_USRF/isolated_runs/smrnaseq_keep8_20260428_171639/03.shortRNA_filtering/00.fastp_keep8nt/CD4_S1.fastp.keep8nt.json

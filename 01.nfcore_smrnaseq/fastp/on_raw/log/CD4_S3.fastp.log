@@ -1,0 +1,30 @@
+Read1 before filtering:
+total reads: 31156982
+total bases: 4673547300
+Q20 bases: 4119042702(88.1353%)
+Q30 bases: 3394769481(72.638%)
+Q40 bases: 3394769481(72.638%)
+
+Read1 after filtering:
+total reads: 31001132
+total bases: 612665840
+Q20 bases: 609471172(99.4786%)
+Q30 bases: 591638724(96.5679%)
+Q40 bases: 591638724(96.5679%)
+
+Filtering result:
+reads passed filter: 31001132
+reads failed due to low quality: 14921
+reads failed due to too many N: 0
+reads failed due to too short: 100719
+reads failed due to adapter dimer: 40210
+reads with adapter trimmed: 30355433
+bases trimmed due to adapters: 2196802031
+
+Duplication rate (may be overestimated since this is SE data): 54.1918%
+
+JSON report: CD4_S3.fastp.json
+HTML report: CD4_S3.fastp.html
+
+fastp --in1 CD4_S3.fastq.gz --out1 CD4_S3.fastp.fastq.gz --thread 6 --json CD4_S3.fastp.json --html CD4_S3.fastp.html --adapter_fasta known_adapters.fa --failed_out CD4_S3.fail.fastq.gz -l 10 --max_len1 20 --adapter_sequence AGATCGGAAGAGCACACGTCTGAACTCCAGTCA 
+fastp v1.3.1, time used: 117 seconds

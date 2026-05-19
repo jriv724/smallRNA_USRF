@@ -1,0 +1,9 @@
+Time loading forward index: 00:00:00
+Time loading mirror index: 00:00:00
+Seeded quality full-index search: 00:01:26
+# reads processed: 28721890
+# reads with at least one alignment: 9196801 (32.02%)
+# reads that failed to align: 19525089 (67.98%)
+Reported 10147766 alignments
+Time searching: 00:01:29
+Overall time: 00:01:29
